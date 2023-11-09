@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XP5eVCMfK72kyofgG6BZvfkprGalsdgVen8HaiNH4kAHybUnp8fVo4zI/UYYi4EAHuYPtnPQcT0ivtXMsfGgdA==",
+  "dgSpecHash": "6aE4Xe9Y/f2TXEoO1gorME3G9r359vOKagJ/h07+t/M2/qfLJhaLf7CS9UN7xlaCCF6Ut0NidqhRrobO86qLEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Api\\App.Api.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\CRIATEC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
