@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace App.Domain.Entities
 {
-    internal class Pessoa
+    public class Pessoa
     {
+
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Email { get; set; }
+        public string Senha { get; set; }
     }
 }
