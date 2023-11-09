@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TyuQin/5srMK7BTH5G10fhrOod99HKtEZdGy7LqwEQx/ezIzY2maCiYEOpmyf3PFCL8D8z5L0+tNkFAOZAI0sA==",
+  "dgSpecHash": "hliJh3gS/AKC8OqaK1p4pLXp7orrFKOkHNGa+LDQkTNBx+JD8MSpIXgNsjSfhxIHri88mO6Ud/suD3zSsN388Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,8 @@
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\CRIATEC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
