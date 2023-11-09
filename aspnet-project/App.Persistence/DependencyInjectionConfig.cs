@@ -13,7 +13,7 @@ namespace App.Persistence
     {
         public static void Inject(IServiceCollection services)
         {
-            services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase));
+            services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
         }
     }
 }

@@ -12,7 +12,7 @@ namespace App.Domain.Interfaces.Application
         void Editar(Pessoa obj);
         void Deletar(int id);
         void Criar (Pessoa obj);
-        Pessoa BuscarPorID(int id);
+        Pessoa BuscarPorId(int id);
         List<Pessoa> BuscarLista();
     }
 }
