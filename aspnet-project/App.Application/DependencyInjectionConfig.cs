@@ -1,4 +1,7 @@
-﻿using System;
+﻿using App.Application.Services;
+using App.Domain.Interfaces.Application;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +11,9 @@ namespace App.Application
 {
     public class DependencyInjectionConfig
     {
-        public static void Inject(IserviceCollection services)
+        public static void Inject(IServiceCollection services)
         {
-            services.AddTransient<IPessoaService, Pessoaservice>();
+            services.AddTransient<IPessoaService, PessoaService>();
         }
     }
 }

@@ -8,13 +8,13 @@ using Newtonsoft.Json;
 
 namespace App.Domain.DTO
 {
-    internal class RetornoApi
+    public class RetornoApi
     {
         [JsonProperty(PropertyName = "status", NullValueHandling = NullValueHandling.Ignore)]
         public string Status { get; set; }
 
         [JsonProperty(PropertyName = "data", NullValueHandling = NullValueHandling.Ignore)]
-        public string Data { get; set; }
+        public object Data { get; set; }
 
         [JsonProperty(PropertyName = "token", NullValueHandling = NullValueHandling.Ignore)]
         public string Token { get; set; }

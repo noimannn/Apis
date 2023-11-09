@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using App.Domain.Entities;
 using App.Domain.Interfaces.Application;
 using App.Domain.Interfaces.Repositories;
-using App.Persistence.Repositories;
+
 
 namespace App.Application.Services
 {
@@ -52,7 +52,7 @@ namespace App.Application.Services
                 throw new ArgumentException("Usuário não encontrado.");
             }
 
-            Pessoa dadosAtualizados new Pessoa();
+            Pessoa dadosAtualizados = new Pessoa();
             dadosAtualizados.Id = dadosAntigos.Id;
 
             dadosAtualizados.Nome = (pessoa.Nome != null) ? pessoa.Nome : dadosAntigos.Nome;
@@ -73,7 +73,7 @@ namespace App.Application.Services
             }
 
             _repository.Delete(id);
-            _repository.Savechanges();
+            _repository.SaveChanges();
         }
 
         public PessoaService BuscarPorId(int id)

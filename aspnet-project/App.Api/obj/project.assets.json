@@ -519,6 +519,30 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "App.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "App.Common": "1.0.0",
+          "App.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Application.dll": {}
+        }
+      },
+      "App.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/App.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Common.dll": {}
+        }
+      },
       "App.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -531,6 +555,21 @@
         },
         "runtime": {
           "bin/placeholder/App.Domain.dll": {}
+        }
+      },
+      "App.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "App.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11"
+        },
+        "compile": {
+          "bin/placeholder/App.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Persistence.dll": {}
         }
       }
     }
@@ -1531,15 +1570,31 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "App.Application/1.0.0": {
+      "type": "project",
+      "path": "../App.Application/App.Application.csproj",
+      "msbuildProject": "../App.Application/App.Application.csproj"
+    },
+    "App.Common/1.0.0": {
+      "type": "project",
+      "path": "../App.Common/App.Common.csproj",
+      "msbuildProject": "../App.Common/App.Common.csproj"
+    },
     "App.Domain/1.0.0": {
       "type": "project",
       "path": "../App.Domain/App.Domain.csproj",
       "msbuildProject": "../App.Domain/App.Domain.csproj"
+    },
+    "App.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../App.Persistence/App.Persistence.csproj",
+      "msbuildProject": "../App.Persistence/App.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "App.Domain >= 1.0.0",
+      "App.Application >= 1.0.0",
+      "App.Persistence >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
       "Microsoft.EntityFrameworkCore >= 7.0.13",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.13",
@@ -1575,8 +1630,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Application\\App.Application.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Application\\App.Application.csproj"
+            },
+            "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
             }
           }
         }
