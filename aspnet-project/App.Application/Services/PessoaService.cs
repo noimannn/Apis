@@ -11,10 +11,10 @@ using App.Domain.Interfaces.Repositories;
 
 namespace App.Application.Services
 {
-    public class PessoaService : IPessoaService
+    public class PessoaService: IPessoaService
     {
         private IRepositoryBase<Pessoa> _repository { get; set; }
-        public PessoaService(RepositoryBase<Pessoa> repository)
+        public PessoaService(IRepositoryBase<Pessoa> repository)
         {
             _repository = repository;
         }
@@ -76,7 +76,7 @@ namespace App.Application.Services
             _repository.SaveChanges();
         }
 
-        public PessoaService BuscarPorId(int id)
+        public Pessoa BuscarPorId(int id)
         {
             var obj = _repository.Query(x => x.Id == id).FirstOrDefault();
             return obj;

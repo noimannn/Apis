@@ -1,4 +1,5 @@
-﻿using App.Domain.Entities;
+﻿using App.Domain.DTO;
+using App.Domain.Entities;
 using App.Domain.Interfaces.Application;
 using Microsoft.AspNetCore.Mvc;
 

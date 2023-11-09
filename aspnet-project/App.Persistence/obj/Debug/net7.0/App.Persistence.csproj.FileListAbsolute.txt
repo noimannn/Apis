@@ -1,0 +1,17 @@
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.deps.json
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.runtimeconfig.json
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Domain.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.AssemblyReference.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfoInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfo.cs
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CopyComplete
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\refint\App.Persistence.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.genruntimeconfig.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\obj\Debug\net7.0\ref\App.Persistence.dll
