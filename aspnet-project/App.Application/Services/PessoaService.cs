@@ -22,7 +22,7 @@ namespace App.Application.Services
         {
             if (string.IsNullOrEmpty(pessoa.Nome))
             {
-                throw new ArgumentNullException(nameof(pessoa.Nome), "Nomea não pode estar vazio.");
+                throw new ArgumentNullException(nameof(pessoa.Nome), "Nome não pode estar vazio.");
             }
 
             if (string.IsNullOrEmpty(pessoa.Email))
