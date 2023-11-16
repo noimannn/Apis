@@ -17,6 +17,7 @@ build_property.MSBuildProjectDirectory = C:\Users\CRIATEC\Documents\Curso\Criate
 build_property._RazorSourceGeneratorDebug = 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/cidade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +26,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlcy1mb3JtdWxhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+=======
+>>>>>>> main
 =======
 >>>>>>> main
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Error.cshtml]
@@ -36,6 +39,7 @@ build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/pessoa-formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLWZvcm11bGFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+=======
+>>>>>>> main
 =======
 >>>>>>> main
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Privacy.cshtml]
