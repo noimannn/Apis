@@ -15,8 +15,8 @@ namespace App.Application
         {
             services.AddTransient<IPessoaService, PessoaService>();
             services.AddTransient<ILoginService, LoginService>();
-            services.AddTransient<IPokemonService, PokemonService>();
             services.AddTransient<ITokenService, TokenService>();
+            services.AddTransient<ICidadeService, CidadeService>();
 
 
         }

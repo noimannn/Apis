@@ -70,6 +70,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors(builder => builder
+    .AllowAnyHeader()
+    .AllowAnyOrigin()
+    .AllowAnyMethod()
+);
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication(); //Primeiro que da autorização

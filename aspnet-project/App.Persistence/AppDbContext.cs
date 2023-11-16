@@ -16,6 +16,6 @@ namespace App.Persistence
         }
 
         public DbSet<Pessoa> pessoa { get; set; }
-        public DbSet<Pokemon> pokemon { get; set; }
+        public DbSet<Cidade> Cidade { get; set; }
     }
 }

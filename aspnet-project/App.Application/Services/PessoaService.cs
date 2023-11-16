@@ -87,5 +87,8 @@ namespace App.Application.Services
             return _repository.Query(x => 1 == 1).ToList();
         }
 
+
+        
+
     }
 }

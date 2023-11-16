@@ -25,7 +25,7 @@ namespace App.Api.Controllers
         }
         
         
-        [Authorize]
+        [Authorize(Roles = "admin")]
         [HttpGet("GetLogado")]
         public IActionResult GetLogado([FromHeader] PessoaDTO pessoa)
         {
