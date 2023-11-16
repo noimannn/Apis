@@ -30,6 +30,20 @@ namespace App.Api.Controllers
             }
         }
 
+        [HttpDelete("deletar")]
+        public IActionResult Deletar([FromHeader] int id)
+        {
+            try
+            {
+                _pessoaService.Deletar(id);
+                return Json(RetornoApi.Sucesso("Pessoa deletada com sucesso!"));
+            }
+            catch (Exception ex)
+            {
+                return Json(RetornoApi.Erro(ex.Message));
+            }
+        }
+
         [HttpPut("editar")]
         public IActionResult Editar([FromBody] Pessoa pessoa)
         {

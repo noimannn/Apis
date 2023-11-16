@@ -16,6 +16,7 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Web
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/cidade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,6 +25,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlcy1mb3JtdWxhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+=======
+>>>>>>> main
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +35,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/pessoa-formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLWZvcm11bGFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +44,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+=======
+>>>>>>> main
 [C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
