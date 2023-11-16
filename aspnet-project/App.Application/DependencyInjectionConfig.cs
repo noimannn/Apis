@@ -14,6 +14,11 @@ namespace App.Application
         public static void Inject(IServiceCollection services)
         {
             services.AddTransient<IPessoaService, PessoaService>();
+            services.AddTransient<ILoginService, LoginService>();
+            services.AddTransient<ITokenService, TokenService>();
+            services.AddTransient<ICidadeService, CidadeService>();
+
+
         }
     }
 }

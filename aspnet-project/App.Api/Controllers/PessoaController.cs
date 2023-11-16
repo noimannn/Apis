@@ -1,6 +1,7 @@
 ﻿using App.Domain.DTO;
 using App.Domain.Entities;
 using App.Domain.Interfaces.Application;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace App.Api.Controllers
@@ -78,6 +79,35 @@ namespace App.Api.Controllers
             {
                 var listaPessoas = _pessoaService.BuscarLista();
                 return Json(RetornoApi.Sucesso(listaPessoas));
+            }
+            catch (Exception ex)
+            {
+                return Json(RetornoApi.Erro(ex.Message));
+            }
+        }
+
+        [HttpGet("ListaPessoas")]
+        [AllowAnonymous]
+        public JsonResult ListaPessoas()
+        {
+            try
+            {
+                var obj = _pessoaService.BuscarLista();
+                return Json(RetornoApi.Sucesso(obj));
+            }
+            catch (Exception ex) 
+            {
+                return Json(RetornoApi.Erro(ex.Message));
+            }
+        }
+
+        [HttpPost("Salvar")]
+        public JsonResult Salvar([FromBody] Pessoa obj)
+        {
+            try
+            {
+                _pessoaService.Criar(obj);
+                return Json(RetornoApi.Sucesso(true));
             }
             catch (Exception ex)
             {

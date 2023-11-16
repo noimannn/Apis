@@ -1,0 +1,12 @@
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\bin\Release\net7.0\App.Domain.deps.json
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\bin\Release\net7.0\App.Domain.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\bin\Release\net7.0\App.Domain.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.AssemblyInfo.cs
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\refint\App.Domain.dll
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\App.Domain.pdb
+C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Domain\obj\Release\net7.0\ref\App.Domain.dll
