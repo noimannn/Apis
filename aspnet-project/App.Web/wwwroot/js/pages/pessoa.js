@@ -37,7 +37,7 @@ function load() {
 
 function remover(id) {
     PessoaRemover(id).then(function () {
-        alert('Pessoa removida pelo sucesso');
+        alert('Pessoa removida com sucesso');
         load();
     });
 }

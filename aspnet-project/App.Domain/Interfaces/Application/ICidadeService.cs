@@ -8,7 +8,7 @@ namespace App.Domain.Interfaces.Application
     {
         Cidade BuscaPorId(int id);
         Cidade BuscaPorCep(string cep);
-        List<Cidade> listaCidades(string busca);
+        List<Cidade> listaCidades(string? busca);
         void Salvar(Cidade obj);
         void Remover(int id);
     }

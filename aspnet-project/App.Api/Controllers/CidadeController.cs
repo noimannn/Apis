@@ -20,7 +20,7 @@ namespace App.Api.Controllers
 
         [HttpGet("ListaCidades")]
         [AllowAnonymous]
-        public JsonResult ListaCidades(string busca)
+        public JsonResult ListaCidades(string? busca)
         {
             try
             {
