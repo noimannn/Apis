@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mIItmZwwZ3uApKtWTy/3jI3ImvtinF3k1WIXFrGdL4njlL4g+1Tqe+UDO956L/RoXtasEPoZVqwRwCUtn+VUg==",
+  "dgSpecHash": "0yRarg+R8W3MkuhzIg3VsU+6ARYxSWrxw72bY5QTfnyjoIgNT4xXtkuLXOtcodlb6PqmYGHHSsmcMLMGuDKxSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Application\\App.Application.csproj",
+  "projectFilePath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Application\\App.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

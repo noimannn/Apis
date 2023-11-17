@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ngP8X8yVhGkrHk5f+dg4uspaOcv3QiYkmoVDE7Q6/tlbjzp5TGNcU2yhrxNUPYPVqKhxu241cSu6Ku8V8HIsiw==",
+  "dgSpecHash": "4JDrROERYEDYnJ2bTYIlMCLDmIYRbRQq9Dgbs37QfX0QGvUD2C7iEUxmVcyTyhEU49OcD6+xq3M3uRuAJy3I5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRIATEC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

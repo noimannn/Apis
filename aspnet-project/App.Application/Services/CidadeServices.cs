@@ -31,12 +31,13 @@ namespace App.Application.Services
             return obj;
         }
 
-        public List<Cidade> listaCidades(string busca)
+        public List<Cidade> listaCidades(string? busca)
         {
             busca = (busca ?? "").ToUpper();
             return _repository.Query(x =>
 
             (
+            x.Id.ToString().Contains(busca) ||
             x.Nome.ToUpper().Contains(busca) ||
             x.Cep.ToUpper().Contains(busca) ||
             x.Uf.ToUpper().Contains(busca)

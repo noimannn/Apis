@@ -9,65 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.Web
 build_property.RootNamespace = App.Web
-build_property.ProjectDir = C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Web\
+build_property.ProjectDir = C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Web
+build_property.MSBuildProjectDirectory = C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Web
 build_property._RazorSourceGeneratorDebug = 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/cidade.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/cidade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/cidades-formulario.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/cidades-formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlcy1mb3JtdWxhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-=======
->>>>>>> main
-=======
->>>>>>> main
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Error.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/cidades-remover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlcy1yZW1vdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Index.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/pessoa-formulario.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/pessoa-formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLWZvcm11bGFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/pessoa.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/pessoa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-=======
->>>>>>> main
-=======
->>>>>>> main
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Privacy.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/_ViewImports.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/_ViewStart.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CRIATEC/Documents/Curso/Criatec/ConsoleApplication/Projeto/Apis/aspnet-project/App.Web/Pages/Shared/_Layout.cshtml]
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vw59brf18e
