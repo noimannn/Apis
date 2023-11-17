@@ -16,7 +16,7 @@ async function CidadeListaCidades(busca) {
 
 async function CidadeBuscaPorId(id) {
     return new Promise((resolve, reject) => {
-        Get('Cidade/BuscaPorId?id=' + id).then(function (response) {
+        Get('Cidade/BuscaPorId', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
@@ -46,7 +46,7 @@ async function CidadeSalvar(obj) {
 
 async function CidadeRemover(id) {
     return new Promise((resolve, reject) => {
-        Delete('Cidade/Remover?id=' + id).then(function (response) {
+        Delete('Cidade/Remover', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {

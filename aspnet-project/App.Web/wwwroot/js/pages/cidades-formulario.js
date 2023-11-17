@@ -10,3 +10,18 @@
         alert(err);
     });
 }
+
+
+function remover() {
+    /*$("[name='id']").val() || ''
+
+    document.querySelector()
+    */
+
+    let id = ($("[name='id']").val() || '');
+    CidadeRemover(id).then(function () {
+        window.location.href = '/cidades';
+    }, function (err) {
+        alert(err);
+    });
+}
