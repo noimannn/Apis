@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hliJh3gS/AKC8OqaK1p4pLXp7orrFKOkHNGa+LDQkTNBx+JD8MSpIXgNsjSfhxIHri88mO6Ud/suD3zSsN388Q==",
+  "dgSpecHash": "tuc16QwibBRh446GMEUmJ/HWRvyl/eDuG7gW/P4LIvAAY9rMAejb8ZzYBrAn+q3VAJWmmmawtgrM1nhMz2B1bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
+  "projectFilePath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

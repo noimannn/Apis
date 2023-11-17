@@ -1096,11 +1096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
       "projectName": "App.Persistence",
-      "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
+      "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
       "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1117,8 +1117,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj"
             }
           }
         }

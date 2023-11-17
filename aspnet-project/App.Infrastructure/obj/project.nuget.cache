@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKbQ/cHc9JVA30ejcyCr6VZ9KFSHh9qZQM/7zq5NBJiLXVPFm0NCOwKadmy31fAZFpVivHcvguZxyVPfZUs1xA==",
+  "dgSpecHash": "tvYiRH0q0DvtDv15z2jeBFiwMeibRSENCLsw5x/rE9+MezWvEeUpmXZXlReU4mNDkHaln3VLIrC6zaLQ+XPEwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIATEC\\Documents\\Curso\\Criatec\\ConsoleApplication\\Projeto\\Apis\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

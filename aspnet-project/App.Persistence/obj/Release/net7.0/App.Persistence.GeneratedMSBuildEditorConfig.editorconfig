@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.Persistence
-build_property.ProjectDir = C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Persistence\
+build_property.ProjectDir = C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Persistence\

@@ -9,3 +9,14 @@ C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Common\obj\Release\net7.0\refint\App.Common.dll
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.pdb
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Common\obj\Release\net7.0\ref\App.Common.dll
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\bin\Release\net7.0\App.Common.deps.json
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\bin\Release\net7.0\App.Common.dll
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\bin\Release\net7.0\App.Common.pdb
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.AssemblyInfoInputs.cache
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.AssemblyInfo.cs
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.csproj.CoreCompileInputs.cache
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.dll
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\refint\App.Common.dll
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\App.Common.pdb
+C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Common\obj\Release\net7.0\ref\App.Common.dll
