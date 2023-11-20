@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj": {}
+    "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj": {
+    "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj",
+        "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj",
         "projectName": "App.Common",
-        "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj",
+        "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj",
         "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\obj\\",
+        "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
+    "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
         "projectName": "App.Persistence",
-        "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
+        "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj",
         "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj": {
+    "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj",
+        "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj",
         "projectName": "App.Web",
-        "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj",
+        "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj",
         "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\obj\\",
+        "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,11 +229,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj": {
-                "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj"
+              "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj": {
+                "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj"
               },
-              "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
-                "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
+              "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
+                "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
               }
             }
           }

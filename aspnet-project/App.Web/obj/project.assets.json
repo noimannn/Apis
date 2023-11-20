@@ -1179,11 +1179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj",
+      "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj",
       "projectName": "App.Web",
-      "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\App.Web.csproj",
+      "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\App.Web.csproj",
       "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\obj\\",
+      "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1200,11 +1200,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj"
+            "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj"
             },
-            "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
+            "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
             }
           }
         }

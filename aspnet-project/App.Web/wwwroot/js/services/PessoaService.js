@@ -1,7 +1,6 @@
-async function PessoaListaPessoas(nome, pesoMaiorQue, pesoMenorQue) {
+async function PessoaListaPessoas(nome) {
     return new Promise((resolve, reject) => {
-        Get('Pessoa/ListaPessoas?nome=' + nome + '&pesoMaiorQue=' +
-            pesoMaiorQue + '&pesoMenorQue=' + pesoMenorQue).then(function (response) {
+        Get('Pessoa/ListaPessoas?nome=' + nome).then(function (response) {
                 console.log(response)
                 if (response.status === 'success') {
                     resolve(response.data);
@@ -45,9 +44,9 @@ async function PessoaSalvar(obj) {
     });
 }
 
-async function PessoaRemover(id) {
+async function PessoaDeletar(id) {
     return new Promise((resolve, reject) => {
-        Delete('Pessoa/Remover?id=' + id).then(function (response) {
+        Delete('Pessoa/deletar', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {

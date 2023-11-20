@@ -55,7 +55,6 @@ namespace App.Persistence.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Nome")
@@ -63,7 +62,6 @@ namespace App.Persistence.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("Senha")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");

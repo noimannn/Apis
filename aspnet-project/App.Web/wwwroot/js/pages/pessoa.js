@@ -8,36 +8,18 @@
 });
 
 function load() {
-    let nome = $('[name="nome"]').val();
-    let pesoMaiorQue = ($('[name="pesoMaiorQue"]').val() || 0);
-    let pesoMenorQue = ($('[name="pesoMenorQue"]').val() || 0);
-    PessoaListaPessoas(nome, pesoMaiorQue, pesoMenorQue).then(function (data) {
+    let pessoa = $('[name="nome"]').val();
+    PessoaListaPessoas(pessoa).then(function (data) {
         $('#table tbody').html('');
         data.forEach(obj => {
-
-            let btnRemover = '<button class="btn btn-danger" onclick="remover(\'' + obj.id + '\')">Remover</button>';
-            let btnEditar = '<button class="btn btn-info" onclick="window.location.href = \'/pessoa/formulario/' + obj.id + '\'"><i class="fas fa-pencil-alt"></i> Editar</button>';
-
             $('#table tbody').append('' +
                 '<tr id="obj-' + obj.id + '">' +
+                '<td>' + (obj.id) + '</td>' +
                 '<td>' + (obj.nome || '--') + '</td>' +
-                '<td>' + (obj.cpf || '--') + '</td>' +
-                '<td>' + (obj.telefone || '--') + '</td>' +
-                '<td>' + (obj.peso || '--') + '</td>' +
-                '<td>' + (moment(obj.dataNascimento).format('DD/MM/YYYY') || '--') + '</td>' +
-                '<td>' + (obj.cidade.nome || '--') + '</td>' +
-                '<td>' + (obj.ativo === true ? 'Ativo' : 'Inativo') + '</td>' +
-                '<td>' + btnEditar + btnRemover + '</td>' +
+                '<td>' + (obj.email || '--') + '</td>' +
+                '<td>' + (obj.senha || '--') + '</td>' +
                 '</tr>');
         });
-        $('#table-pessoas').DataTable();
     });
 }
 
-
-function remover(id) {
-    PessoaRemover(id).then(function () {
-        alert('Pessoa removida com sucesso');
-        load();
-    });
-}

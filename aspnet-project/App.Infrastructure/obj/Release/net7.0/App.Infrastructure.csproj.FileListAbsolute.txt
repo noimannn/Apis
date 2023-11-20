@@ -9,3 +9,14 @@ C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Infrastructure\obj\Release\net7.0\refint\App.Infrastructure.dll
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.pdb
 C:\Users\CRIATEC\Documents\Curso\Criatec\ConsoleApplication\Projeto\Apis\aspnet-project\App.Infrastructure\obj\Release\net7.0\ref\App.Infrastructure.dll
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\bin\Release\net7.0\App.Infrastructure.deps.json
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\bin\Release\net7.0\App.Infrastructure.dll
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\bin\Release\net7.0\App.Infrastructure.pdb
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.dll
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\refint\App.Infrastructure.dll
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\App.Infrastructure.pdb
+C:\Users\CRIATEC\Source\Repos\Funcionando_Cidades\aspnet-project\App.Infrastructure\obj\Release\net7.0\ref\App.Infrastructure.dll

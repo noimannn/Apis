@@ -1005,11 +1005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Application\\App.Application.csproj",
+      "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Application\\App.Application.csproj",
       "projectName": "App.Application",
-      "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Application\\App.Application.csproj",
+      "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Application\\App.Application.csproj",
       "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Application\\obj\\",
+      "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1026,11 +1026,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Common\\App.Common.csproj"
+            "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Common\\App.Common.csproj"
             },
-            "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj"
             }
           }
         }

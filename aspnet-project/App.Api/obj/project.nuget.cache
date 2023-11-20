@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWB/RmHP7584bEhSDNpCsKkkE9i5EezJd5ohRFNeAjEjXGZYjVpSG3xtlCGzpZGrrCco1pAjxGc2bJZHA33KRA==",
+  "dgSpecHash": "XdYxtDU9IxxEjrUsOPbAuiyspvLka6jpEMIGKAquVJfwXMoqp79jam50QPbnKUkyH1B89w2+nf7lLs36lA7Flw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Api\\App.Api.csproj",
+  "projectFilePath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Api\\App.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRIATEC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CRIATEC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",

@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj",
       "projectName": "App.Domain",
-      "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\App.Domain.csproj",
+      "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\App.Domain.csproj",
       "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Domain\\obj\\",
+      "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",

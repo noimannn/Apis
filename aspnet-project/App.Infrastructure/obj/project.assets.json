@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
       "projectName": "App.Infrastructure",
-      "projectPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Infrastructure\\App.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\CRIATEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\CRIATEC\\Source\\Repos\\Funcionando_Cidades\\aspnet-project\\App.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIATEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
