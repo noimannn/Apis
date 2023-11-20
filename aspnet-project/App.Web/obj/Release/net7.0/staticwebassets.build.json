@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ubzCCXeJDyq/d5Arc5PhMbTV52aNfaazHPbvqmraLIE=",
+  "Hash": "pWFbqN4xDFnO2l1t+hZp9eju2iQuvI2PlBgFCez9gJ4=",
   "Source": "App.Web",
   "BasePath": "_content/App.Web",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\core\\requester.js"
+    },
+    {
+      "Identity": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidade_remover.js",
+      "SourceId": "App.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\wwwroot\\",
+      "BasePath": "_content/App.Web",
+      "RelativePath": "js/pages/cidade_remover.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pages\\cidade_remover.js"
     },
     {
       "Identity": "C:\\Users\\CRIATEC\\source\\repos\\apis\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidades.js",

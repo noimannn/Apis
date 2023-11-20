@@ -16,7 +16,7 @@ async function CidadeListaCidades(busca) {
 
 async function CidadeBuscaPorId(id) {
     return new Promise((resolve, reject) => {
-        Get('Cidade/BuscaPorId', id).then(function (response) {
+        Get('Cidade/BuscaPorId?id=' + id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
@@ -32,6 +32,21 @@ async function CidadeBuscaPorId(id) {
 async function CidadeSalvar(obj) {
     return new Promise((resolve, reject) => {
         Post('Cidade/Salvar', obj).then(function (response) {
+            if (response.status === 'success') {
+                resolve(response.data);
+            } else {
+                reject(response.message);
+            }
+        }, function (err) {
+            console.error(err);
+            reject('Erro desconhecido');
+        });
+    });
+}
+
+async function CidadeEditar(id) {
+    return new Promise((resolve, reject) => {
+        Put('Cidade/Editar?id=', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
