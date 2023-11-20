@@ -10,6 +10,8 @@ namespace App.Domain.Interfaces.Application
         Cidade BuscaPorCep(string cep);
         List<Cidade> listaCidades(string? busca);
         void Salvar(Cidade obj);
+
+        void Editar(Cidade obj);
         void Remover(int id);
     }
 }

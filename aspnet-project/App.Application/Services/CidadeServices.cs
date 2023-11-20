@@ -61,5 +61,21 @@ namespace App.Application.Services
             _repository.Save(obj);
             _repository.SaveChanges();
         }
+        public void Editar(Cidade cidade) {
+            var dadosAntigos = _repository.Query(x => x.Id ==
+            cidade.Id).FirstOrDefault();
+            if (dadosAntigos == null) {
+                throw new ArgumentException("Cidade não encontrado.");
+            }
+            Cidade dadosAtualizados = new Cidade {
+                Id = dadosAntigos.Id,
+                Nome = cidade.Nome ?? dadosAntigos.Nome,
+                Uf = cidade.Uf ?? dadosAntigos.Uf,
+                Cep = cidade.Cep ?? dadosAntigos.Cep
+            };
+            _repository.Update(dadosAtualizados);
+            _repository.SaveChanges();
+
+        }
     }
 }

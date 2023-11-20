@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\CRIATEC\source\repos\apis\aspnet-project\App.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/cidade-editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlLWVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CRIATEC/source/repos/apis/aspnet-project/App.Web/Pages/cidade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2lkYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

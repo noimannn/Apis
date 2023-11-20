@@ -24,8 +24,8 @@ namespace App.Api.Controllers {
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        /*[HttpPut("editar")]
-        public IActionResult Editar([FromBody] Cidade cidade) {
+        [HttpPut("editar")]
+        public JsonResult Editar([FromBody] Cidade cidade) {
             try {
                 _service.Editar(cidade);
                 return Json(RetornoApi.Sucesso("Cidade editada com sucesso!"));
@@ -33,10 +33,9 @@ namespace App.Api.Controllers {
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        */
 
         [HttpDelete("Remover")]
-        public JsonResult Remover(int id) {
+        public JsonResult Remover([FromBody] int id) {
             try {
                 _service.Remover(id);
                 return Json(RetornoApi.Sucesso(true));
